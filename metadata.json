@@ -1,0 +1,5 @@
+{
+  "name": "InsightStream - Realtime Intelligence & Analysis",
+  "description": "A professional real-time intelligence dashboard using Gemini 2.5 Flash with Google Search Grounding. Features automatic logic debugging, detailed breakdown of assumptions, and dynamic data visualization.",
+  "requestFramePermissions": []
+}
